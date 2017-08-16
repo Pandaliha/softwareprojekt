@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1497533892 source:c:\users\administrator.dlm00106\desktop\test\aufgabe4\testteil1.cpp
+	"RE.h"
+	"FSA.h"
+	"TestOrakel.h"
+	<iostream>
+	<string>
+
+1497526695 c:\users\administrator.dlm00106\desktop\test\aufgabe4\re.h
+	<string>
+	<sstream>
+
+1497530924 c:\users\administrator.dlm00106\desktop\test\aufgabe4\fsa.h
+	<vector>
+	<string>
+	<algorithm>
+
+1497532143 c:\users\administrator.dlm00106\desktop\test\aufgabe4\testorakel.h
+	"RE.h"
+	<stdio.h>
+	<iostream>
+
+1497530752 source:c:\users\administrator.dlm00106\desktop\test\aufgabe4\testteil2und3.cpp
+	<iostream>
+	"FSA.h"
+	"RE.h"
+	"Transform.h"
+	"TestOrakel.h"
+	<iostream>
+	<string>
+
+1434457958 c:\users\administrator.dlm00106\desktop\test\aufgabe4\transform.h
+	<iostream>
+	"FSA.h"
+	"RE.h"
+
+1497289801 source:c:\users\administrator.dlm00106\desktop\test\aufgabe4\testeaufgaben.cpp
+	<iostream>
+	"FSA.h"
+	"RE.h"
+	"Transform.h"
+	"TestOrakel.h"
+	<string>
+
